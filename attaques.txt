@@ -1,0 +1,6 @@
+1) Epee (min-max) 15 25
+2) Hache (min-max) 30 40
+3) Marteau (min-max) 40 45
+4) Arc (min-max) 10 30
+5) Feu (min-max) 50 60
+6) Glace (min-max) 50 60
